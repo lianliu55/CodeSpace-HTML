@@ -1,4 +1,4 @@
-## HTMl Structure
+## HTML Structure
 
 HTML5, or HyperText Markup Language 5, is the latest version of the HTML standard, which is a markup language used for structuring content on the web. HTML provides a set of elements and attributes that web developers use to create and design web pages. It is the foundation in which you are able to create websites. 
 
